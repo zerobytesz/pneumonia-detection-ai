@@ -1,0 +1,15 @@
+# Dataset
+chest_xray/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
+
+# Large files
+*.zip
+
+# Optional: exclude model if too big
+# model/model.h5
